@@ -1,0 +1,13 @@
+nav {
+    background: gray;
+    ul  {
+        list-style-type: none; 
+        li {
+            margin-left: 0;
+            a {
+                background-color: yellow;
+                color: blue;
+            }
+        }
+    }
+}

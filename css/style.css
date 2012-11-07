@@ -1,0 +1,19 @@
+#container {}
+
+header {}
+
+nav {}
+
+article {
+    float: left;
+    margin-right: 2%;
+    width: 45%;
+}
+
+aside {
+    float: left;
+    overflow: hidden;
+    width: 45%;   
+}
+
+footer {}
