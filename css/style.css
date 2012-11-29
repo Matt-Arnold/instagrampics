@@ -1,19 +1,160 @@
-#container {}
+body { /* background image taken from http://mudcu.be/bg/ */ 
+    background: #000000;
+    background-image: url(../img/zenbg-1.png), url(../img/zenbg-2.png);
+    background-repeat: repeat-x, repeat;
+}
 
-header {}
+.flexslider {
+    width: 300px;
+    height: 300px; 
+    float: right;
+}
 
-nav {}
+h1 {
+    font-size: 34px;
+    color: #010101;
+    font-family: Montserrat Alternates, geneva, sans-serif; 
+    border-style: solid;
+    border-width: 5px;
+    margin-right: 350px;
+    border-color: #356AA0;
+    
+}
 
-article {
-    float: left;
-    margin-right: 2%;
-    width: 45%;
+h2 {
+    font-size: 22px;
+    font-family: Constantia, geneva, sans-serif;
+    
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Constantia, geneva, sans-serif;
+}
+
+div#container {
+	background-color: #EEEEFE;
+	margin-left:  auto;
+	margin-right: auto;
+	width: 950px;
 }
 
 aside {
     float: left;
-    overflow: hidden;
-    width: 45%;   
 }
 
-footer {}
+
+header {
+    background: #000000;
+    background-image: url(../img/zenbg-1.png), url(../img/zenbg-2.png);
+    background-repeat: repeat-x, repeat;
+	height: 200px;
+	width: auto;
+}
+
+header img {
+    width: 38%;
+}
+
+#menu {
+    			font-family: Arial, sans-serif;
+				font-weight: bold;
+				text-transform: uppercase;
+				margin: 0px 0;
+				padding: 0;
+				list-style-type: none;
+				background-color: #eee;
+				font-size: 13px;
+				height: 40px;
+				border-top: 2px solid #356AA0;
+				border-bottom: 2px solid #204061;
+                background: #356AA0;
+			}
+			#menu li {
+				float: left;
+				margin: 0;				
+			}
+			#menu li a {
+				text-decoration: none;
+				display: block;
+				padding: 0 20px;
+				line-height: 40px;
+				color: #666;
+			}
+			#menu li a:hover, #menu li.active a {
+				background-color: #f5f5f5;
+				border-bottom: 2px solid #DDD;
+				color: #999;
+			}
+		
+        
+			#menu_wrapper.blue a {color: #fff;}
+			#menu_wrapper.blue li a:hover, #menu_wrapper.blue li.active a {color: #90CDFF; background: #3D7BBB; border-bottom: 2px solid #356AA0;}
+			#menu_wrapper.blue {background: url(images/blue.png) no-repeat right;}
+			#menu_wrapper.blue div {background: url(images/blue.png) no-repeat left;}
+
+
+
+article {
+	clear: both;
+	padding: 10px; 
+}
+
+article img {
+	float: right;
+	margin-left: 10px;
+
+}
+
+#abouttext  {
+	clear: both;
+	padding: 10px;
+}
+
+#abouttext div img {
+	float: right; 
+	margin-left: 10px;
+	padding: 0 20px 10px 0;
+	width: 55%;	
+}
+
+
+div#primary { 
+	clear: both;
+	padding: 20px;
+    font-size: 18px;
+    color: #010101;
+    
+}
+
+.photo-with-caption {
+	float: left; 
+	padding: 0 20px 10px 0;
+    width: 35%; /* change image sizes here */
+    background-color: #356AA0;
+    border: 10px solid black;
+	
+}
+
+#index-image div {
+    width: 40%;
+}
+
+#secondary div { 
+	float: left;
+	padding: 10px;
+	width: 47%; 
+}
+
+footer {
+	clear: both;
+	padding: 0px 10px 0px 10px;
+}
+
+footer p {
+	text-align: center;
+    color: #FFFFFF;
+	font-size: 15px; 
+	padding-bottom: 3px;
+}
+

@@ -1,0 +1,52 @@
+<!-- how to make a three section skeleton -->
+
+<html>
+
+    <head>
+			<title>Matt Arnold</title>
+			<link rel="stylesheet" href="style.css" />
+	</head>
+
+	<body>
+			<div id="top" class="container">
+				<header>
+						<h1>Matt Arnold</h1>
+				</header>
+            <div>
+
+            <div class="container">
+				<nav> <!-- this is the primary navigation -->
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="portfolio.html">Portfolio</a></li>
+							<li><a href="resume.html">Resume</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+				</nav> <!-- this is the primary navigation -->
+				<div id="primary">
+					<div>
+						<img src="atrak.jpg" alt="DJ Atrak at CounterPoint" /> <!-- img taken and edited by me -->
+						<h1>Hey, I'm Matt Arnold.</h1>
+						<p>I'm a hard-working student, proud Gator, avid
+						electronic music fan, video
+						game nerd, and pizza-loving vegetarian. Check out
+						the rest of my site for more information!
+						</p>	
+				    </div>
+
+            <div class="container">
+				<footer> <!-- start footer -->
+					<p>Copyright &copy; 2012 <a href="mailto:thematthewarnold@gmail.com">Matt Arnold</a>
+						| <a href="index.html">Home</a> 
+						| <a href="about.html">About</a> 
+						| <a href="portfolio.html">Portfolio</a>
+						| <a href="resume.html">Resume</a> 
+						| <a href="contact.html">Contact</a></p>
+				</footer> <!-- END footer -->
+			</div>
+	</body>
+
+</html>
+
+
