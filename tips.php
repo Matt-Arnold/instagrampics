@@ -35,7 +35,7 @@
                         <h2>DeluxeFX</h2>
                         
                         
-                        <a href="https://itunes.apple.com/us/app/deluxefx/id520664855?mt=8"><img src="img/deluxefx.jpg" alt="foo" /></a>
+                        <a href="https://itunes.apple.com/us/app/deluxefx/id520664855?mt=8"><img src="img/deluxefx.jpg" alt="logo taken from iosapps.com" /></a>
                         
                         
                         <p>This app can enhance your photos through the use of filters, bokeh effects, borders and more.</p>
@@ -45,7 +45,7 @@
                        <h2>DipTic</h2>
                        
   
-                        <a href="https://itunes.apple.com/us/app/diptic/id377989827?mt=8"><img src="img/diptic.png" alt="foo" width="27%" /></a>
+                        <a href="https://itunes.apple.com/us/app/diptic/id377989827?mt=8"><img src="img/diptic.png" alt="logo taken from iosapps.com" /></a>
                         
                         
                         <p>This app can split up your pictures into multiple parts. This allows users to insert multiple 

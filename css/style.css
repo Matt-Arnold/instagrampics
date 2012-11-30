@@ -5,8 +5,8 @@ body { /* background image taken from http://mudcu.be/bg/ */
 }
 
 .flexslider {
-    width: 300px;
-    height: 300px; 
+    width: 350px;
+    height: 350px; 
     float: right;
 }
 
@@ -18,7 +18,7 @@ h1 {
     border-width: 5px;
     margin-right: 350px;
     border-color: #356AA0;
-    
+    text-shadow: 2px 2px 3px #606060;    
 }
 
 h2 {
@@ -32,16 +32,19 @@ h3 {
     font-family: Constantia, geneva, sans-serif;
 }
 
+h4 {
+    font-size: 18px;
+    font-family: Constantia, geneva, sans-serif;
+    padding: 0 0 0 55px;
+}
+
 div#container {
 	background-color: #EEEEFE;
 	margin-left:  auto;
 	margin-right: auto;
-	width: 950px;
+	width: 960px;
 }
 
-aside {
-    float: left;
-}
 
 
 header {
@@ -53,7 +56,7 @@ header {
 }
 
 header img {
-    width: 38%;
+    width: 38%; /*image scaled down to original size. Too large at 100%. */
 }
 
 #menu {
@@ -96,55 +99,30 @@ header img {
 
 
 article {
-	clear: both;
-	padding: 10px; 
+    float: right; 
 }
 
-article img {
-	float: right;
-	margin-left: 10px;
-
-}
-
-#abouttext  {
-	clear: both;
-	padding: 10px;
-}
-
-#abouttext div img {
-	float: right; 
-	margin-left: 10px;
-	padding: 0 20px 10px 0;
-	width: 55%;	
-}
 
 
 div#primary { 
 	clear: both;
-	padding: 20px;
-    font-size: 18px;
+	padding: 0 20px 225px 23px;
+    font-size: 17.5px;
     color: #010101;
     
 }
 
 .photo-with-caption {
 	float: left; 
-	padding: 0 20px 10px 0;
-    width: 35%; /* change image sizes here */
-    background-color: #356AA0;
-    border: 10px solid black;
-	
+	padding: 0px 0px -10 0;
+    font-size: 16px;
+    background-color: #606060;
+    border: 6px solid black;
+    margin-right: 20px;
+    font-weight: bold;
+    	
 }
 
-#index-image div {
-    width: 40%;
-}
-
-#secondary div { 
-	float: left;
-	padding: 10px;
-	width: 47%; 
-}
 
 footer {
 	clear: both;

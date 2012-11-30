@@ -31,21 +31,21 @@
                          
                          
                          <div class="photo-with-caption">
-                            <img src="img/tennis.jpg" alt="foo" />
-                            <p>This is your caption.</p>
+                            <img src="img/tennis.jpg" alt="tennis instagram pic taken by me" />
+                            <p>Instagram photo taken by me.</p>
                         </div>
                          
                          
                         
                         
-						<p>Editing and uploading your Instagram photos is just the first part of using this app. <strong>Getting others to see those photos</strong> is another
+						<p>Editing and uploading your photos is just the first part of using Instagram. <strong>Getting others to see those photos</strong> is another
                         important step. 
                         Many different approaches are taken when it comes to <strong>gaining likes and follows</strong> on Instagram.
                         </p>
                         
                         <p>One strategy is to use <strong>hashtags.</strong> Although hashtags were first made popular on Twitter,
                         they are vital to maximizing the reach of your Instagram photos.
-                        This doesn't mean use just any hashtags but rather, use the most popular hashtags so your photos will 
+                        This doesn't mean use just any hashtags but rather, include the most popular hashtags in the <strong>caption</strong> so your photos will 
                         appear to a larger audience. Some of the most popular Instagram hashtags right now include <strong>#love, #instagood, 
                         #photooftheday, #iphonesia and #tweegram.</strong> To keep up with the hottest IG hashtags, visit
                         <a href="http://web.stagram.com/hot/">Webstagram.</a>
@@ -56,6 +56,11 @@
                         liking their pictures or following them, you have the potential to <strong>build up a large army of loyal
                         IG followers.</strong></p>
                         
+                        <p>Finally, don't forget to share the photos you post on Instagram to <strong>other social media sites.</strong> Underneath the 
+                        captions and Photo Map area in the "Share Photo" menu on Instagram, there is a <strong>"Share" area</strong> that can link
+                        to your <strong>Facebook, Twitter, email, Tubmlr, Flickr or foursquare.</strong> You can share your newest 
+                        photos simultaneously on all of these social media outlets simply by connecting your 
+                        Instagram account to each outlet and selecting the ones you want to have your picture posted to.</p>
                         
                          <h3><a href="tips.php">Useful Tips</a></h3>
                         

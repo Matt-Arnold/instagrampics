@@ -271,3 +271,10 @@
 {"ts":1354148873323,"patch":[[{"diffs":[[0,"img/"],[-1,"tennis.jpg"],[0,"\" al"]],"start1":1265,"start2":1265,"length1":18,"length2":8}]],"length":3359,"saved":false}
 {"ts":1354148876191,"patch":[[{"diffs":[[0,"img/"],[-1,"sky"],[1,"tennis"],[0,".jpg"]],"start1":1038,"start2":1038,"length1":11,"length2":14}]],"length":3362,"saved":false}
 {"ts":1354148879996,"patch":[[{"diffs":[[0,"    "],[-1," \n                         <img src=\"img/\" alt=\"foo\" />"],[0,"\n   "]],"start1":1227,"start2":1227,"length1":63,"length2":8}]],"length":3307,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1354249943214,"patch":[[{"diffs":[[0,"img/"],[-1,"tennis"],[0,".jpg"]],"start1":1038,"start2":1038,"length1":14,"length2":8}]],"length":3301,"saved":false}
+{"ts":1354249950747,"patch":[[{"diffs":[[0,"rc=\"img/"],[1,"tennis-w400-h400"],[0,".jpg\" al"]],"start1":1034,"start2":1034,"length1":16,"length2":32}]],"length":3317,"saved":false}
+{"ts":1354250268834,"patch":[[{"diffs":[[0,"img/"],[-1,"tennis-w400-h400"],[0,".jpg"]],"start1":1038,"start2":1038,"length1":24,"length2":8}]],"length":3301,"saved":false}
+{"ts":1354250276580,"patch":[[{"diffs":[[0,"rc=\"img/"],[1,"tennis-w350-h350"],[0,".jpg\" al"]],"start1":1034,"start2":1034,"length1":16,"length2":32}]],"length":3317,"saved":false}
+{"ts":1354251321749,"patch":[[{"diffs":[[0," <p>"],[-1,"This is your caption"],[1,"Sky. Instagram image taken by me"],[0,".</p"]],"start1":1104,"start2":1104,"length1":28,"length2":40}]],"length":3329,"saved":false}
+{"ts":1354251328787,"patch":[[{"diffs":[[0," <p>"],[-1,"Sky"],[1,"Night Tennis"],[0,". In"]],"start1":1104,"start2":1104,"length1":11,"length2":20}]],"length":3338,"saved":false}
+{"ts":1354252469183,"patch":[[{"diffs":[[0,"nnis"],[-1,"-w350-h350"],[0,".jpg"]],"start1":1044,"start2":1044,"length1":18,"length2":8}]],"length":3328,"saved":false}

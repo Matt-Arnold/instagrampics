@@ -33,10 +33,10 @@
                         
                         
                         <div class="photo-with-caption">
-                            <img src="img/instagram.jpg" alt="foo" />
-                            <p>This is your caption.</p>
+                            <img src="img/instagram.jpg" alt="official instagram logo taken from http://iosapps.com/Instagram-icons256" />
+                            <p>Logo taken from
+                            www.iosapps.com</p>
                         </div>
-                        
                         
                         
 						<p>Instagram is an <strong>app based photo sharing program</strong> that was launched in October of 2010. It allows users 
@@ -49,12 +49,12 @@
                         The popularity of this app has grown <strong>exponentially</strong> since its launch, reaching up to 100
                         million users in September earlier this year. Instagram has now extended from being solely accessible on mobile phones 
                         to being available on the Internet, where users now have their own <strong>public Instagram profile page</strong> just like other social 
-                        networking sites such as <a href="www.facebook.com/">Facebook</a> and <a href="www.twitter.com">Twitter.</a></p>
+                        networking sites such as <a href="http://www.facebook.com/">Facebook</a> and <a href="http://www.twitter.com">Twitter.</a></p>
                         
                         
                         <h3><a href="pictures.php">Taking Pictures</a></h3>
     
-                    
+                                   
     
                             </div>
                        

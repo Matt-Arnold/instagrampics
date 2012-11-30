@@ -29,8 +29,8 @@
 						<h1>Taking Great Instagram Photos</h1>
                          
                          <div class="photo-with-caption">
-                            <img src="img/sky.jpg" alt="foo" />
-                            <p>This is your caption.</p>
+                            <img src="img/sky.jpg" alt="sky instagram pic taken by me" />
+                            <p>Instagram photo taken by me.</p>
                         </div>
                          
                          
@@ -54,30 +54,31 @@
                         another layer of filters on top. There are currently a total of <strong>18 filters</strong> to choose from, 
                         all of which have a special effect (in order):
                         
+                        <div class="filter-list">
                             <ul>
-                                <li><strong>Normal</strong></li>
-                                <li><strong>Amaro</strong></li>
-                                <li><strong>Rise</strong></li>
-                                <li><strong>Hudson</strong></li>
-                                <li><strong>X-pro II</strong></li>
-                                <li><strong>Sierra</strong></li>
-                                <li><strong>Lo-fi</strong></li>
-                                <li><strong>Earlybird</strong></li>
-                                <li><strong>Sutro</strong></li>
-                                <li><strong>Toaster</strong></li>
-                                <li><strong>Brannan</strong></li>
-                                <li><strong>Inkwell</strong></li>
-                                <li><strong>Walden</strong></li>
-                                <li><strong>Hefe</strong></li>
-                                <li><strong>Valencia</strong></li>
-                                <li><strong>Nashville</strong></li>
-                                <li><strong>1977</strong></li>
-                                <li><strong>Kelvin</strong></li>
+                                <li><em>Normal</em></li>
+                                <li><em>Amaro</em></li>
+                                <li><em>Rise</em></li>
+                                <li><em>Hudson</em></li>
+                                <li><em>X-pro II</em></li>
+                                <li><em>Sierra</em></li>
+                                <li><em>Lo-fi</em></li>
+                                <li><em>Earlybird</em></li>
+                                <li><em>Sutro</em></li>
+                                <li><em>Toaster</em></li>
+                                <li><em>Brannan</em></li>
+                                <li><em>Inkwell</em></li>
+                                <li><em>Walden</em></li>
+                                <li><em>Hefe</em></li>
+                                <li><em>Valencia</em></li>
+                                <li><em>Nashville</em></li>
+                                <li><em>1977</em></li>
+                                <li><em>Kelvin</em></li>
                             </ul>
                         
                         <p>
                         
-                        To view how each filter affects a photo, click 
+                        View how each filter affects a photo
                         <a href="http://upload.wikimedia.org/wikipedia/commons/c/c6/Instagram_Filters_2011.jpg">here.</a> (Wikimedia Commons)
                         
                         </p>
@@ -104,6 +105,7 @@
                         </div>
 
 					</div>
+                </div>
  	
 			</div>
       
